@@ -16,7 +16,7 @@ This project focuses on:
 
 # Dashboard Preview
 
-![Supply Chain Dashboard](Screenshot 2026-05-14 220537(2).png)
+![Supply Chain Dashboard](Supply_Chain_Intelligence_Dashboard.png)
 
 ---
 
