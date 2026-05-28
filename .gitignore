@@ -1,0 +1,65 @@
+```gitignore
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+venv/
+.venv/
+
+# Logs
+*.log
+
+# CSV large raw datasets (optional)
+*.zip
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Power BI temporary files
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+env/
+ENV/
+
+# Pytest cache
+.pytest_cache/
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Desktop.ini
+
+# Temporary files
+temp/
+tmp/
+
+# Notebook autosaves
+*.ipynb_checkpoints
+
+# Large Power BI backup files
+*.bak
+
+# Ignore Python build files
+build/
+dist/
+*.egg-info/
+
+# Ignore cache
+.cache/
+```
